@@ -1,0 +1,4 @@
+player=mpv
+verbose-player
+retry-streams=5
+ringbuffer-size=64M
